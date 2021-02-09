@@ -16,3 +16,10 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 ## If you have some good resources, please contribute to this repository :)
 
+
+<!--  
+Add these: https://github.com/datastacktv/data-engineer-roadmap :  add some of their files
+https://datastack.tv/
+github.com/therealsreehari/Learn-Datascience-For-Free
+-->
+
