@@ -3,7 +3,7 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 
 ## Books That Can Help
-
+R for Data Science: [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
 
 ## Some Great Articles On Web
 
