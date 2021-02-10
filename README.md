@@ -9,6 +9,12 @@ R for Data Science: [Go here to read online (official website)](https://r4ds.had
 
 
 ## Some Awesome Repositories
+https://github.com/MrAlex6204/Books
+
+https://github.com/PacktPublishing/Python-Machine-Learning-By-Example-Second-Edition
+<!--https://github.com/PacktPublishing-->
+https://github.com/wesm/pydata-book
+
 
 
 ## Some Good Websites
@@ -18,6 +24,8 @@ R for Data Science: [Go here to read online (official website)](https://r4ds.had
 
 
 <!--  
+
+Book intros : https://hackr.io/blog/data-science-books
 Add these: https://github.com/datastacktv/data-engineer-roadmap :  add some of their files
 https://datastack.tv/
 github.com/therealsreehari/Learn-Datascience-For-Free
