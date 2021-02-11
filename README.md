@@ -5,6 +5,11 @@ I'm currently learning Data Science. I build this repository for helping myself.
 ## Books That Can Help
 * R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
 
+## Some Free Courses On Web :octocat:
+1. Introduction to Docker (3 hours): [here](https://datastack.tv/docker-course.html)
+
+2. Scala at Light Speed (2 hours): [here](https://datastack.tv/scala-course.html)
+
 ## Some Great Articles On Web
 1. Becoming a Data Scientist – Curriculum via Metromap : [here](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
 
@@ -20,10 +25,17 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 4. IPython notebooks for "Python for Data Analysis": [here](https://github.com/wesm/pydata-book)
 
+5. Python Machine Learning By Example(2nd Edition): [here](https://github.com/PacktPublishing/Python-Machine-Learning-By-Example-Second-Edition)
 
-https://github.com/PacktPublishing/Python-Machine-Learning-By-Example-Second-Edition
-<!--https://github.com/PacktPublishing-->
+6. Getting Started with TensorFlow: [here](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow)
 
+7. Deep Learning with Keras: [here](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
+
+8. Hands-On Data Science and Python Machine Learning: [here](https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning)
+
+9. Learn Python by Building Data Science Applications: [here](https://github.com/PacktPublishing/Learn-Python-by-Building-Data-Science-Applications)
+
+10. **Data Engineer Roadmap**(Must see):[here](https://github.com/datastacktv/data-engineer-roadmap)
 
 
 
