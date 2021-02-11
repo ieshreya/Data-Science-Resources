@@ -2,7 +2,7 @@
 I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to :star: it!
 
 
-## Books That Can Help
+## Books That Can Help :books:
 * R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
 
 ## Some Free Courses On Web :octocat:
@@ -10,13 +10,13 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 2. Scala at Light Speed (2 hours): [here](https://datastack.tv/scala-course.html)
 
-## Some Great Articles On Web
+## Some Great Articles On Web :bookmark_tabs:
 1. Becoming a Data Scientist – Curriculum via Metromap : [here](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
 
 2. 100+ Downloadable Free Machine Learning Books (*Must see*): [here](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
 
 
-## Some Awesome Repositories
+## Some Awesome Repositories :pushpin:
 1. 100+ Books Collection Of Programming, Databases, Linux & Tools : [here](https://github.com/MrAlex6204/Books)
 
 2. Free Resources to get started with Data Science (*must see*): [here](https://github.com/therealsreehari/Learn-Data-Science-For-Free)
@@ -39,7 +39,7 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 
 
-## Some Good Websites
+## Some Good Websites :spider_web:	
 
 
 ## If you have some good resources, please contribute to this repository :)
@@ -47,9 +47,8 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 <!--  
 
-Book intros : https://hackr.io/blog/data-science-books
-Add these: https://github.com/datastacktv/data-engineer-roadmap :  add some of their files
-https://datastack.tv/
+Book intros : https://hackr.io/blog/data-science-books amzn
+ 
 
 -->
 
