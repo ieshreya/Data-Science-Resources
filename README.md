@@ -12,6 +12,9 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 2. Scala at Light Speed (2 hours): [here](https://datastack.tv/scala-course.html)
 
+3. JavaScript for Data Science: [here](http://js4ds.org/)
+
+
 ## Some Great Articles On Web :bookmark_tabs:
 1. Becoming a Data Scientist – Curriculum via Metromap : [here](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
 
@@ -39,7 +42,7 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 10. **Data Engineer Roadmap**(Must see):[here](https://github.com/datastacktv/data-engineer-roadmap)
 
-
+11. JavaScript for Data Science: [here](https://github.com/software-tools-in-javascript/js4ds)
 
 ## Some Good Websites :spider_web:	
 
