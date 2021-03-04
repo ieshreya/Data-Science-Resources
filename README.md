@@ -7,6 +7,56 @@ I'm currently learning Data Science. I build this repository for helping myself.
 **Data Science Cheat Sheet**: [PDF here](https://github.com/shreyalive/Data-Science/blob/main/Data%20Science%20Cheat%20Sheet.pdf)
 
 ---
+### Get Started With Python: Tutorials
+_Python is one of the best language used by data scientist for various data science projects/application. If you're new to programming, here are some awesome free resources to get started in your Python Journey!_
+- Python 3 in one picture:  [Here](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
+- **Awesome Python**:  [Here](https://github.com/vinta/awesome-python)
+- **Jargon from the functional programming world in simple terms!**:  [Here](https://github.com/hemanth/functional-programming-jargon)
+- **Dive Into Python**:  [Here](http://www.diveintopython.net/index.html)
+- Learn Python Wiki on Reddit:  [Here](https://www.reddit.com/r/learnpython/wiki/index)
+- Learn 90% of Python in 90 Minutes:  [Here](https://www.slideshare.net/MattHarrison4/learn-90)
+- Highest Voted Python Questions:  [Here](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
+- Python Basic Concepts:  [Here](https://github.com/gumption/Python_for_Data_Science/blob/master/3_Python_Basic_Concepts.ipynb)
+- Quick Reference to Python:  [Here](http://www.dataschool.io/python-quick-reference/)
+- The Elements of Python Style:  [Here](https://github.com/amontalenti/elements-of-python-style)
+- **What does the yield keyword do in Python?**:  [Here](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
+- Parsing values from a JSON file in Python:  [Here](http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python)
+- **Python Quora FAQs**:  [Here](https://www.quora.com/topic/Python-programming-language-1)
+- time-complexity of various operations - list/dict - in current CPython:  [Here](https://wiki.python.org/moin/TimeComplexity)
+- Scripting in Python
+    - [Python Scripting Tutorial](http://www.dreamsyssoft.com/python-scripting-tutorial/intro-tutorial.php)
+    - [Scripting with Python](https://www.schrodinger.com//AcrobatFile.php?type=supportdocs&type2=&ident=404)
+    - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
+
+---
+
+### Data Science with Python
+- **Data Science IPython Notebooks**:  [here](https://github.com/donnemartin/data-science-ipython-notebooks)
+- Awesome Python - Data Analysis:  [here](https://github.com/vinta/awesome-python#science-and-data-analysis)
+- Statistics
+  - Statistics and Data Science:  [here](https://github.com/svaksha/pythonidae/blob/master/Statistics.md)
+- **An Introduction to Scientific Python (and a Bit of the Maths Behind It) – NumPy**:  [here](http://www.kdnuggets.com/2016/06/intro-scientific-python-numpy.html)
+- Data Analysis and IPython Notebooks:  [here](https://github.com/kirang89/pycrumbs#data-analysis)
+- Python for Data Science: Basic Concepts:  [here](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
+- Pycon India 2015 Notes:  [here](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
+- **5 important Python Data Science advancements of 2015**:  [here](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
+- Data Exploration with Numpy cheat sheet:  [here](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
+- Querying Craiglist with Python:  [here](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
+- **An introduction to Numpy and Scipy**:  [here](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
+- Create NBA Shot Charts:  [here](http://savvastjortjoglou.com/nba-shot-sharts.html)
+- PythoR- Python meets R:  [here](http://nipunbatra.github.io/2016/01/pythor/)
+- **How do I learn data analysis with Python?**:  [here](https://www.quora.com/How-do-I-learn-data-analysis-with-Python?redirected_qid=2464720)
+- What are some interesting things to do with Python?:  [here](https://www.quora.com/Python-programming-language-What-are-some-interesting-things-to-do-with-Python?redirected_qid=2324227)
+- **Which is better for data analysis: R or Python?**:  [here](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
+- **Web scraping in Python**:  [here](https://github.com/ujjwalkarn/Web-Scraping)
+- The Guide to Learning Python for Data Science:  [here](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
+- Python For Data Science - A Cheat Sheet For Beginners:  [here](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
+- Top voted Python data science questions:  [here](http://datascience.stackexchange.com/questions/tagged/python)
+- Awesome Python - Data Visualization:  [here](https://github.com/vinta/awesome-python#data-visualization)
+- Awesome Python - Map Reduce:  [here](https://github.com/vinta/awesome-python#mapreduce)
+
+---
+
 ### Data Structures and Algorithms
 * [Java Programming](https://java-programming.mooc.fi/)
 
@@ -85,6 +135,11 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 3. JavaScript for Data Science: [here](http://js4ds.org/)
 
+4. Learn Python (Codecademy):  [here](https://www.codecademy.com/learn/python#)
+5. Free Interactive Course: Intro to Python for Data Science (DataCamp):  [here](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+6. Introduction to Computer Science and Programming Using Python (MIT):  [here](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+7. Python for Everybody:  [here](https://www.coursera.org/learn/python)
+8. Python Programming Essentials:  [here](https://www.coursera.org/learn/python-programming)
 
 ---
 ### **Some Great Articles On Web** :bookmark_tabs:
