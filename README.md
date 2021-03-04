@@ -3,14 +3,18 @@
 
 I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to :star: it!
 
+---
+**Data Science Cheat Sheet**: [PDF here](https://github.com/shreyalive/Data-Science/blob/main/Data%20Science%20Cheat%20Sheet.pdf)
 
-Data Science Cheat Sheet: [PDF here]()
+---
 ### Data Structures and Algorithms
 * [Java Programming](https://java-programming.mooc.fi/)
 
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+
+---
 
 ### Databases
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
@@ -25,6 +29,7 @@ Data Science Cheat Sheet: [PDF here]()
 
 [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)
 
+---
 ### Single Variable Calculus
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
 
@@ -32,14 +37,17 @@ Data Science Cheat Sheet: [PDF here]()
 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
 
+---
 ### Linear Algebra
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
+---
 ### Multivariable Calculus
 [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
+---
 ### Statistics & Probability
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
@@ -47,6 +55,7 @@ Data Science Cheat Sheet: [PDF here]()
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
+---
 ### Data Science Tools & Methods
 [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 
@@ -54,6 +63,7 @@ Data Science Cheat Sheet: [PDF here]()
 
 [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
 
+---
 ### Machine Learning/Data Mining
 [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -63,10 +73,12 @@ Data Science Cheat Sheet: [PDF here]()
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
-## Books That Can Help :books:
+---
+### **Books That Can Help** :books:
 * R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
 
-## Some Free Courses On Web :octocat:
+---
+### **Some Free Courses On Web** :octocat:
 1. Introduction to Docker (3 hours): [here](https://datastack.tv/docker-course.html)
 
 2. Scala at Light Speed (2 hours): [here](https://datastack.tv/scala-course.html)
@@ -74,13 +86,15 @@ Data Science Cheat Sheet: [PDF here]()
 3. JavaScript for Data Science: [here](http://js4ds.org/)
 
 
-## Some Great Articles On Web :bookmark_tabs:
+---
+### **Some Great Articles On Web** :bookmark_tabs:
 1. Becoming a Data Scientist – Curriculum via Metromap : [here](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
 
 2. 100+ Downloadable Free Machine Learning Books (*Must see*): [here](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
 
 
-## Some Awesome Repositories :pushpin:
+---
+### **Some Awesome Repositories** :pushpin:
 1. 100+ Books Collection Of Programming, Databases, Linux & Tools : [here](https://github.com/MrAlex6204/Books)
 
 2. Free Resources to get started with Data Science (*must see*): [here](https://github.com/therealsreehari/Learn-Data-Science-For-Free)
@@ -109,16 +123,9 @@ Data Science Cheat Sheet: [PDF here]()
 14. Data Science Projects Using Python and R : [here](https://github.com/WillKoehrsen/Data-Analysis)
 
 15. DataCamp data-science courses : [here](https://github.com/wblakecannon/DataCamp)
+---
 ## Some Good Websites :spider_web:	
 
 
 ```If you have some good resources, please contribute to this repository :)```
-
-
-<!--  
-
-Book intros : https://hackr.io/blog/data-science-books amzn
- 
-
--->
 
