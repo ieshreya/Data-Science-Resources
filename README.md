@@ -3,6 +3,8 @@
 
 I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to :star: it!
 
+
+Data Science Cheat Sheet: [PDF here]()
 ### Data Structures and Algorithms
 * [Java Programming](https://java-programming.mooc.fi/)
 
@@ -103,7 +105,10 @@ I'm currently learning Data Science. I build this repository for helping myself.
 
 12. *[MUST SEE]* Python Data Science Handbook: full text in Jupyter Notebooks: [here](https://github.com/shreyalive/PythonDataScienceHandbook)      
                                                                                or read book online [here](http://jakevdp.github.io/PythonDataScienceHandbook)
+13. Data Science Specialization :  [here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io)                                                                              
+14. Data Science Projects Using Python and R : [here](https://github.com/WillKoehrsen/Data-Analysis)
 
+15. DataCamp data-science courses : [here](https://github.com/wblakecannon/DataCamp)
 ## Some Good Websites :spider_web:	
 
 
