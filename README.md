@@ -3,6 +3,12 @@
 
 I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to :star: it!
 
+## Data Structures and Algorithms
+* [Java Programming](https://java-programming.mooc.fi/)
+
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
 ## Books That Can Help :books:
 * R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
@@ -43,6 +49,9 @@ I'm currently learning Data Science. I build this repository for helping myself.
 10. **Data Engineer Roadmap**(Must see):[here](https://github.com/datastacktv/data-engineer-roadmap)
 
 11. JavaScript for Data Science: [here](https://github.com/software-tools-in-javascript/js4ds)
+
+12. *[MUST SEE]* Python Data Science Handbook: full text in Jupyter Notebooks: [here](https://github.com/shreyalive/PythonDataScienceHandbook)      
+                                                                               or read book online [here](http://jakevdp.github.io/PythonDataScienceHandbook)
 
 ## Some Good Websites :spider_web:	
 
