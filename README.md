@@ -188,6 +188,14 @@ Contributed by: @username
 --- Add resources here ---
 -->
 
+Contributed by: [@braydenq](https://github.com/braydenq)
+### Data Science Courses:
+* [Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses available as well.
+* [Udacity](https://www.udacity.com/courses#!/data-science) - Online MOOCs that are the Data Science related courses. by I
+* [Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - A collection of all bootcamps currently on the market as of April 5, 2014 by Ikechukwu Okonkwo.
+* [Coursera Machine Learning Course](https://www.coursera.org/course/ml) - Andrew Ng's pinnacle Machine Learning course.
+* [Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw) - EDX courses related to data science.
+
 
 ```If you have some good resources, please contribute to this repository :)```
 
