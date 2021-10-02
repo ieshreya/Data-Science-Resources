@@ -179,7 +179,14 @@ _Python is one of the best language used by data scientist for various data scie
 
 15. DataCamp data-science courses : [here](https://github.com/wblakecannon/DataCamp)
 ---
-## Some Good Websites :spider_web:	
+# Contributions by awesome learners
+> This section includes all contributions submitted by data science learners out there - 
+
+
+<!--   Add your contributions below this comment. See the format below :
+Contributed by: @username
+--- Add resources here ---
+-->
 
 
 ```If you have some good resources, please contribute to this repository :)```
