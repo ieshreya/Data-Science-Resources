@@ -187,16 +187,21 @@ Other available Visualization Resources.
 ---
 ### **Some Great Articles On Web** 🔖
 1. Becoming a Data Scientist – Curriculum via Metromap : [here](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
-
 2. 100+ Downloadable Free Machine Learning Books (*Must see*): [here](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
 3. Who is a Data Scientist? : [here](https://www.edureka.co/blog/who-is-a-data-scientist/)
 4. Building a Data Scientist Resume : [here](https://www.edureka.co/blog/data-scientist-resume/)
+5. Introduction to Data Visualization in Python : [here](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+6. An Intuitive Guide to Data Visualization in Python : [here](https://www.analyticsvidhya.com/blog/2021/02/an-intuitive-guide-to-visualization-in-python/)
 
 ### **Some Blogs to Subscribe**
 1. Analytics India Magazine: [here](https://analyticsindiamag.com/)
 2. Data Quest: [here](https://www.dqindia.com/)
 3. Analytics Vidhya: [here](https://www.analyticsvidhya.com/)
 4. KDnuggets:[here](https://www.kdnuggets.com/topic/data-science)
+5. Data Science Central: [here](https://www.datasciencecentral.com/)
+6. SmartData Collective: [here](https://www.smartdatacollective.com/)
+7. What's The Big Data?: [here](https://whatsthebigdata.com/)
+8. No Free Hunch:[here](https://medium.com/kaggle-blog)
 ---
 ### **Some Awesome Repositories** 📌
 1. 100+ Books Collection Of Programming, Databases, Linux & Tools : [here](https://github.com/MrAlex6204/Books)
