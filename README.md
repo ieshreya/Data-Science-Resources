@@ -4,7 +4,7 @@
 I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to ⭐ it!
 
 ---
-**Data Science Cheat Sheet**: [PDF here](https://github.com/shreyalive/Data-Science/blob/main/Data%20Science%20Cheat%20Sheet.pdf)
+**Data Science Cheat Sheet**: [PDF here](https://github.com/ieshreya/Data-Science/blob/main/data/Data%20Science%20Cheat%20Sheet.pdf)
 
 ---
 ### Get Started With Python: Tutorials
@@ -124,8 +124,28 @@ _Python is one of the best language used by data scientist for various data scie
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
 ---
-### **Books That Can Help** 📗
-* R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
+### **Books That Can Help (pdfs)** 📗
+- R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
+
+- Data Science: Theories, Models, Algorithms and Analytics: [here](https://github.com/ieshreya/Data-Science/blob/main/data/DSA_Book.pdf)
+
+- Data Science Cheat Sheet: [here](https://github.com/ieshreya/Data-Science/blob/main/data/Data%20Science%20Cheat%20Sheet.pdf)
+
+- Fundamentals of Data Visualization: [here](https://github.com/ieshreya/Data-Science/blob/main/data/Fundamentals%20of%20Data%20Visualization.pdf)
+
+- Learning Python OOP 5th Edition O'reilly: [here](https://github.com/ieshreya/Data-Science/blob/main/data/LEARNING%20PYTHON%20%20POWERFUL%20OBJECT-ORIENTED%20PROGRAMMING%2C%205TH%20EDITION-OREILLY%20(%20PDFDrive%20).pdf)
+
+- Naked Statistics_ Stripping the Dread from the Data: [here](https://github.com/ieshreya/Data-Science/blob/main/data/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20(%20PDFDrive%20).pdf)
+
+- Practical Data Science with R - Nina Zumel John Mount: [here](https://github.com/ieshreya/Data-Science/blob/main/data/Practical%20Data%20Science%20with%20R%20-%20Nina%20Zumel%20John%20Mount.pdf)
+
+- Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (2017, O’Reilly): [here](https://github.com/ieshreya/Data-Science/blob/main/data/Python%20for%20Data%20Analysis.%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(2017%2C%20O%E2%80%99Reilly).pdf)
+
+- Python Notes For Professionals: [here](https://github.com/ieshreya/Data-Science/blob/main/data/PythonNotesForProfessionals.pdf)
+
+- The Data Science Handbook: [here](https://github.com/ieshreya/Data-Science/blob/main/data/The%20Data%20Science%20Handbook.pdf)
+
+- Pratical Statistics For Data Scientists: [here](https://github.com/ieshreya/Data-Science/blob/main/data/pratical-statistics-for-data-scientists.pdf)
 
 ---
 ### **Some Free Courses On Web** :octocat:
