@@ -1,7 +1,7 @@
 # Free Data Science Resources for Beginners
 ```Repository Under Development```
 
-I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to :star: it!
+I'm currently learning Data Science. I build this repository for helping myself. But if it helps you anyhow, feel free to ⭐ it!
 
 ---
 **Data Science Cheat Sheet**: [PDF here](https://github.com/shreyalive/Data-Science/blob/main/Data%20Science%20Cheat%20Sheet.pdf)
@@ -124,7 +124,7 @@ _Python is one of the best language used by data scientist for various data scie
 [Process Mining](https://www.coursera.org/learn/process-mining)
 
 ---
-### **Books That Can Help** :books:
+### **Books That Can Help** 📗
 * R for Data Science (*Just Awesome!*): [Go here to read online (official website)](https://r4ds.had.co.nz/index.html)
 
 ---
@@ -142,14 +142,14 @@ _Python is one of the best language used by data scientist for various data scie
 8. Python Programming Essentials:  [here](https://www.coursera.org/learn/python-programming)
 
 ---
-### **Some Great Articles On Web** :bookmark_tabs:
+### **Some Great Articles On Web** 🔖
 1. Becoming a Data Scientist – Curriculum via Metromap : [here](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
 
 2. 100+ Downloadable Free Machine Learning Books (*Must see*): [here](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
 
 
 ---
-### **Some Awesome Repositories** :pushpin:
+### **Some Awesome Repositories** 📌
 1. 100+ Books Collection Of Programming, Databases, Linux & Tools : [here](https://github.com/MrAlex6204/Books)
 
 2. Free Resources to get started with Data Science (*must see*): [here](https://github.com/therealsreehari/Learn-Data-Science-For-Free)
@@ -178,7 +178,9 @@ _Python is one of the best language used by data scientist for various data scie
 14. Data Science Projects Using Python and R : [here](https://github.com/WillKoehrsen/Data-Analysis)
 
 15. DataCamp data-science courses : [here](https://github.com/wblakecannon/DataCamp)
+
 ---
+
 # Contributions by awesome learners
 > This section includes all contributions submitted by data science learners out there - 
 
