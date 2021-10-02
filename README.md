@@ -57,6 +57,29 @@ _Python is one of the best language used by data scientist for various data scie
 
 ---
 
+### Data Visualization
+
+Collection of the best libraries that I know for easy and powerful data visualizations.
+
+- [ggplot](http://ggplot.yhathq.com/) - ggplot for python ported by the team at yhat.
+- [matplotlib](http://matplotlib.org/) - Awesome plotting library for python.
+- [d3](http://d3js.org/) - Mike Bostock's viz library - the de facto gold standard for polished visualization - in js, steep learning curve but beautiful outcomes.
+- [bokeh](http://bokeh.pydata.org/) - Interactive visualization library.
+- [d3py](https://github.com/mikedewar/d3py) - Another library for data viz.
+- [vincent](http://vincent.readthedocs.org/en/latest/) - Help with python for d3.
+- [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.
+
+Other available Visualization Resources.
+
+- [Scott Murray's D3 Tutorials](alignedleft.com/tutorials/d3/) Tutorials from _Interactive Data Visualization for the Web_
+- [tributary.io](http://tributary.io) - live code visualization platform designed specifically for D3.js
+- [plot.ly](http://plot.ly) - A web visualization and data processing platform
+- [blockspring](http://blockspring.com) - Share code and visualizations through a single platform
+- [dot.append](http://enjalot.github.io/dot-append/) - Ian Johnson (enjalot) goes through several live-coding examples using D3
+- [Text Visualization Plots](#http://textvis.lnu.se/) - Interactive site with different types of text visualization for different problems.
+
+---
+
 ### Data Structures and Algorithms
 * [Java Programming](https://java-programming.mooc.fi/)
 
