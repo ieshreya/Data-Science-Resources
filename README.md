@@ -170,6 +170,8 @@ Other available Visualization Resources.
 
 - Pratical Statistics For Data Scientists: [here](https://github.com/ieshreya/Data-Science/blob/main/data/pratical-statistics-for-data-scientists.pdf)
 
+- Mathematics, Probability and Statistics: [here](https://www.pdfdrive.com/mathematicsprobability-and-statisticsapplied-mathematics-e16657497.html)
+
 ---
 ### **Some Free Courses On Web** :octocat:
 1. Introduction to Docker (3 hours): [here](https://datastack.tv/docker-course.html)
@@ -183,6 +185,8 @@ Other available Visualization Resources.
 6. Introduction to Computer Science and Programming Using Python (MIT):  [here](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 7. Python for Everybody:  [here](https://www.coursera.org/learn/python)
 8. Python Programming Essentials:  [here](https://www.coursera.org/learn/python-programming)
+9. Linear Algebra (OpenCourseWare): [here](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+10. Multivariable Calculus (OpenCourseWare): [here](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 ---
 ### **Some Great Articles On Web** 🔖
